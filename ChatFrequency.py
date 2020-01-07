@@ -3,7 +3,7 @@ from datetime import date
 import numpy as np
 import matplotlib.pyplot as plt
 
-exportedFilePath = 'WhatsApp Chat with Nisarg 07Jan2020.txt'
+exportedFilePath = 'WhatsApp Chat with Nisarg.txt'
 fullName1 = 'Nisarg'
 fullName2 = 'Kunjal'
 color1 = '#0095B6'
